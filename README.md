@@ -11,7 +11,6 @@
 ### ⚡ Areas of Expertise
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Data Science & ML:**  Expert in NLP, LLMs, TensorFlow, PyTorch, and building custom AI solutions.
-- **Deep Learning:** CNNs, RNNs, LSTMs, Transformers
 - **Generative AI:** Expertise in Generative Adversarial Networks (GANs), Transformers, and Large Language Models (LLMs).
 - **Databases:** MySQL, MongoDB
 - **Cloud & DevOps:** Proficient in AWS, Azure, Docker, and MLOps for scalable AI deployment.
