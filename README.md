@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deep Karia</h1>
-<h3 align="center">📊 Data Science | 🤖 Machine Learning | 🌌 Deep Learning | 🧠 Neural Network | 💻 Full Stack Developer</h3>
+<h3 align="center"> 🤖 Artificial Intelligence | 🌌 Deep Learning | 🧠 Neural Network | 💻 Full Stack Developer</h3>
 <h4 align = "center">Building innovative AI solutions with Python, specializing in Generative AI and LLM integration.</h4>
 
 ### 🔍 About Me
@@ -22,4 +22,5 @@
 <a href="https://huggingface.co/deepkaria" target="_blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="DeepKaria" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dkariax" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DeepKaria" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25225513/deep-karia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="DeepKaria" height="30" width="40" /></a>
+<a href="https://deepkaria.medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="DeepKaria" height="30" width="40" /></a>
 </p>
